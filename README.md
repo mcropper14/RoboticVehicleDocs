@@ -14,6 +14,8 @@ This repository provides documentation and example scripts to assist with ROS-ba
    ```bash
    ./run_docker.sh
 
+## Project Structure
+
 RoboticVehicleDocs/
 ├── ExampleCode/
 │   ├── basic_robot_lidar.py          # Basic LIDAR functionality
