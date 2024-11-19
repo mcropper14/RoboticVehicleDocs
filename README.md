@@ -16,18 +16,20 @@ This repository provides documentation and example scripts to assist with ROS-ba
 
 ## Project Structure
 
-RoboticVehicleDocs/
-├── ExampleCode/
-│   ├── basic_robot_lidar.py          # Basic LIDAR functionality
-│   ├── basic_robot_movement.py       # Basic movement functions
-│   └── open_camera.py                # Script to open and use the camera
-├── Instructions/
-│   └── install_vscode.txt            # Instructions to install VS Code
-├── Troubleshooting/
-│   ├── camera_not_working.txt        # Help for camera issues
-│   ├── docker_help.txt               # General Docker troubleshooting tips
-│   ├── docker_issues.txt             # Common Docker issues and solutions
-│   ├── start_nodes.txt               # Instructions to start nodes in ROS
-│   └── vnc_commands.txt              # VNC commands for remote access
-├── README.md                         # Project documentation (this file)
-└── run_docker.sh    
+## Project Structure
+
+- `RoboticVehicleDocs/`
+  - `ExampleCode/`
+    - `basic_robot_lidar.py`: Basic LIDAR functionality
+    - `basic_robot_movement.py`: Basic movement functions
+    - `open_camera.py`: Script to open and use the camera
+  - `Instructions/`
+    - `install_vscode.txt`: Instructions to install VS Code
+  - `Troubleshooting/`
+    - `camera_not_working.txt`: Help for camera issues
+    - `docker_help.txt`: General Docker troubleshooting tips
+    - `docker_issues.txt`: Common Docker issues and solutions
+    - `start_nodes.txt`: Instructions to start nodes in ROS
+    - `vnc_commands.txt`: VNC commands for remote access
+  - `README.md`: Project documentation (this file)
+  - `run_docker.sh`
