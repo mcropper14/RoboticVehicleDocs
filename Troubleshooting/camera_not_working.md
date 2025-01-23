@@ -1,3 +1,5 @@
+## Camera Troubleshooting
+
 If the camera will not open but the light is turned on:
     run ```ll /dev/astra*``` to see the ports of the camera
     Go into run_docker.sh file and include the correct ports from the output of the previous command

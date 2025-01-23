@@ -1,5 +1,9 @@
+## Creating ROS2 Node
+
+
 cd into source, or create your own directory 
-``` mkdir directory_name ```
+``` mkdir directory_name ``` 
+``` cd directory ```
 
 or to place the node in the existing structure 
 ``` cd ~/yahboom_ros2_ws/yahboomcar_ws/src ```
